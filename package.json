@@ -1,12 +1,12 @@
 {
   "name": "greeter",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "sm": "semantic-release --no-ci",
-    "commitmsg": "commitlint -e"
+    "commitmsggg": "commitlint -e"
   },
   "author": "",
   "license": "ISC",
@@ -16,7 +16,10 @@
   },
   "release": {
     "branch": "master",
-    "generteNotes": ["@semantic-release/release-notes-generator"],
+    "generteNotes": [
+      "@semantic-release/release-notes-generator"
+    ],
+    "prepare": ["@semantic-release/npm"],
     "publish": [
       "@semantic-release/github"
     ],
