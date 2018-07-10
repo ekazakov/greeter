@@ -1,11 +1,11 @@
 {
   "name": "greeter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "sm": "GH_TOKEN=c6940b683076613371138e60b3a30f81fce84c06 semantic-release --no-ci",
+    "sm": "GH_TOKEN=1e487fe9edb491c3bd5d53110459d1a1898c705f semantic-release --no-ci",
     "commitmsg": "commitlint -e"
   },
   "author": "",
