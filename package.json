@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sm": "GH_TOKEN=9e94ac674464b098c4819e0d89e89bc2785580ff pnpx semantic-release --no-ci",
-    "commitmsg": "commitlint -E GIT_PARAMS"
+    "commitmsg": "commitlint -e"
   },
   "author": "",
   "license": "ISC",
