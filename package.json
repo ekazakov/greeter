@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "sm": "GH_TOKEN=f67bd8716211641a311a87d9db48ffa6e6f57064 semantic-release --no-ci",
+    "sm": "semantic-release --no-ci",
     "commitmsg": "commitlint -e"
   },
   "author": "",
