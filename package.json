@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sm": "pnpx semantic-release"
+    "sm": "GH_TOKEN=9e94ac674464b098c4819e0d89e89bc2785580ff pnpx semantic-release --no-ci",
+    "commitmsg": "commitlint -E GIT_PARAMS"
   },
   "author": "",
   "license": "ISC",
@@ -15,9 +16,16 @@
   },
   "release": {
     "branch": "master",
-    "publish": ["@semantic-release/github"],
+    "publish": [
+      "@semantic-release/github"
+    ],
     "npmPublish": false,
     "tarballDir": false,
     "debug": true
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.0.0",
+    "@commitlint/config-conventional": "^7.0.1",
+    "husky": "^0.14.3"
   }
 }
