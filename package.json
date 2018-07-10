@@ -1,0 +1,23 @@
+{
+  "name": "greeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sm": "pnpx semantic-release"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.4.0",
+    "semantic-release-cli": "^4.0.6"
+  },
+  "release": {
+    "branch": "master",
+    "publish": ["@semantic-release/github"],
+    "npmPublish": false,
+    "tarballDir": false,
+    "debug": true
+  }
+}
