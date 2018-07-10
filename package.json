@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "sm": "GH_TOKEN=9e94ac674464b098c4819e0d89e89bc2785580ff pnpx semantic-release --no-ci",
+    "test": "jest",
+    "sm": "GH_TOKEN=c6940b683076613371138e60b3a30f81fce84c06 semantic-release --no-ci",
     "commitmsg": "commitlint -e"
   },
   "author": "",
@@ -27,5 +27,16 @@
     "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",
     "husky": "^0.14.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/"
+    ],
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.js?$"
   }
 }
