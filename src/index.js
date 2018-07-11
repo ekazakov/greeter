@@ -1,6 +1,6 @@
 class Greeter {
     constructor(name) {
         this.name = name;
-        console.log('created');
+        console.log('created!');
     }
 }
