@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/ekazakov/greeter/compare/v1.10.0...v1.11.0) (2018-07-11)
+
+
+### Features
+
+* travis ([c9ae1e7](https://github.com/ekazakov/greeter/commit/c9ae1e7))
+
 # [1.10.0](https://github.com/ekazakov/greeter/compare/v1.9.0...v1.10.0) (2018-07-11)
 
 
