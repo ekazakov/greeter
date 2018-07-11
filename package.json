@@ -30,11 +30,7 @@
       "@semantic-release/git"
     ],
     "publish": [
-      "@semantic-release/github",
-      {
-        "path": "@semantic-release/exec",
-        "cmd": "git push origin HEAD:master"
-      }
+      "@semantic-release/github"
     ],
     "npmPublish": false,
     "tarballDir": false,
