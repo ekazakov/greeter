@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/ekazakov/greeter/compare/v1.11.0...v1.12.0) (2018-07-11)
+
+
+### Features
+
+* super usefull stuff ([039a48c](https://github.com/ekazakov/greeter/commit/039a48c))
+
 # [1.11.0](https://github.com/ekazakov/greeter/compare/v1.10.0...v1.11.0) (2018-07-11)
 
 
