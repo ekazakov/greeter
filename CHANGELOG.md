@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/ekazakov/greeter/compare/v1.6.0...v1.7.0) (2018-07-11)
+
+
+### Features
+
+* fsdfsdf ([f2a6568](https://github.com/ekazakov/greeter/commit/f2a6568))
+
 # [1.6.0](https://github.com/ekazakov/greeter/compare/v1.5.0...v1.6.0) (2018-07-11)
 
 
