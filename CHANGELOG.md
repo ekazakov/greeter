@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/ekazakov/greeter/compare/v1.4.0...v1.5.0) (2018-07-11)
+
+
+### Features
+
+* fooo ([016d0c6](https://github.com/ekazakov/greeter/commit/016d0c6))
+
 # [1.4.0](https://github.com/ekazakov/greeter/compare/v1.3.1...v1.4.0) (2018-07-11)
 
 
