@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/ekazakov/greeter/compare/v1.8.0...v1.9.0) (2018-07-11)
+
+
+### Features
+
+* serlwker ([653b56f](https://github.com/ekazakov/greeter/commit/653b56f))
+
 # [1.8.0](https://github.com/ekazakov/greeter/compare/v1.7.0...v1.8.0) (2018-07-11)
 
 
