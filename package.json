@@ -33,7 +33,7 @@
       "@semantic-release/github",
       {
         "path": "@semantic-release/exec",
-        "cmd": "git push"
+        "cmd": "git push origin HEAD:master"
       }
     ],
     "npmPublish": false,
