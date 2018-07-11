@@ -20,13 +20,13 @@
       "@semantic-release/release-notes-generator"
     ],
     "verifyConditions": [
-      "@semantic-release/npm",
       "@semantic-release/changelog",
+      "@semantic-release/npm",
       "@semantic-release/git"
     ],
     "prepare": [
-      "@semantic-release/npm",
       "@semantic-release/changelog",
+      "@semantic-release/npm",
       "@semantic-release/git"
     ],
     "publish": [
