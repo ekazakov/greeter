@@ -1,1 +1,5 @@
-class Greeter {}
+class Greeter {
+    constructor(name) {
+        this.name = name;
+    }
+}
