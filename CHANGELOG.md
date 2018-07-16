@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/ekazakov/greeter/compare/v1.12.0...v1.12.1) (2018-07-11)
+
+
+### Bug Fixes
+
+* release ([d1f39ed](https://github.com/ekazakov/greeter/commit/d1f39ed))
+
 # [1.12.0](https://github.com/ekazakov/greeter/compare/v1.11.0...v1.12.0) (2018-07-11)
 
 
