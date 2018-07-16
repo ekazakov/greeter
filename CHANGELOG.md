@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/ekazakov/greeter/compare/v1.12.1...v1.13.0) (2018-07-16)
+
+
+### Features
+
+* **exampleScope:** add cool stuff ([5231a8b](https://github.com/ekazakov/greeter/commit/5231a8b))
+
 ## [1.12.1](https://github.com/ekazakov/greeter/compare/v1.12.0...v1.12.1) (2018-07-11)
 
 
