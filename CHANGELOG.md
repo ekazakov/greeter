@@ -1,3 +1,31 @@
+# [1.13.0](https://github.com/ekazakov/greeter/compare/v1.12.1...v1.13.0) (2018-07-16)
+
+
+### Features
+
+* **exampleScope:** add cool stuff ([5231a8b](https://github.com/ekazakov/greeter/commit/5231a8b))
+
+## [1.12.1](https://github.com/ekazakov/greeter/compare/v1.12.0...v1.12.1) (2018-07-11)
+
+
+### Bug Fixes
+
+* release ([d1f39ed](https://github.com/ekazakov/greeter/commit/d1f39ed))
+
+# [1.12.0](https://github.com/ekazakov/greeter/compare/v1.11.0...v1.12.0) (2018-07-11)
+
+
+### Features
+
+* super usefull stuff ([039a48c](https://github.com/ekazakov/greeter/commit/039a48c))
+
+# [1.11.0](https://github.com/ekazakov/greeter/compare/v1.10.0...v1.11.0) (2018-07-11)
+
+
+### Features
+
+* travis ([c9ae1e7](https://github.com/ekazakov/greeter/commit/c9ae1e7))
+
 # [1.10.0](https://github.com/ekazakov/greeter/compare/v1.9.0...v1.10.0) (2018-07-11)
 
 

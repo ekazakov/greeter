@@ -1,6 +1,6 @@
 {
   "name": "greeter",
-  "version": "1.10.0",
+  "version": "1.13.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -30,11 +30,7 @@
       "@semantic-release/git"
     ],
     "publish": [
-      "@semantic-release/github",
-      {
-        "path": "@semantic-release/exec",
-        "cmd": "git push origin HEAD:master"
-      }
+      "@semantic-release/github"
     ],
     "npmPublish": false,
     "tarballDir": false,
@@ -46,12 +42,13 @@
     "@semantic-release/changelog": "^2.1.1",
     "@semantic-release/exec": "^2.2.4",
     "@semantic-release/git": "^6.0.1",
+    "cz-customizable": "^5.2.0",
     "husky": "^0.14.3",
     "semantic-release": "^15.7.1"
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog"
+      "path": "node_modules/cz-customizable"
     }
   },
   "jest": {
