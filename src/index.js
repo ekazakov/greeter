@@ -3,4 +3,8 @@ class Greeter {
         this.name = name;
         console.log('created!');
     }
+    
+    greet() {
+        console.log('Hello!');
+    }
 }
