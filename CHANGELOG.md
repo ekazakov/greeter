@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/ekazakov/greeter/compare/v1.14.0...v1.15.0) (2018-09-25)
+
+
+### Features
+
+* **accounts:** fsdf ([e7cb1e9](https://github.com/ekazakov/greeter/commit/e7cb1e9))
+
 # [1.14.0](https://github.com/ekazakov/greeter/compare/v1.13.0...v1.14.0) (2018-09-25)
 
 
