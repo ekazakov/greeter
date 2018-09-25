@@ -1,3 +1,11 @@
+# [1.14.0](https://github.com/ekazakov/greeter/compare/v1.13.0...v1.14.0) (2018-09-25)
+
+
+### Features
+
+* **accounts:** long greet ([64b9312](https://github.com/ekazakov/greeter/commit/64b9312))
+* **accounts:** short greet ([ccd1956](https://github.com/ekazakov/greeter/commit/ccd1956))
+
 # [1.13.0](https://github.com/ekazakov/greeter/compare/v1.12.1...v1.13.0) (2018-07-16)
 
 
