@@ -11,4 +11,8 @@ class Greeter {
     longGreet() {
         console.log('Heeeellllloooo!');
     }
+    
+    shortGreet() {
+        console.log('Hl!');
+    }
 }
