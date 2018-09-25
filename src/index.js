@@ -7,4 +7,8 @@ class Greeter {
     greet() {
         console.log('Hello!');
     }
+
+    longGreet() {
+        console.log('Heeeellllloooo!');
+    }
 }
