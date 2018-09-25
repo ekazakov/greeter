@@ -9,7 +9,7 @@ class Greeter {
     }
 
     longGreet() {
-        console.log('Heeeellllloooo!');
+        console.log('Heeeellllloooo');
     }
     
     shortGreet() {
